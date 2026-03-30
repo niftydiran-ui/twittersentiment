@@ -1,5 +1,5 @@
 # Real-Time Sentiment Analysis (Twitter NLP Pipeline)
-
+Author: Diran Srinath Reddy
 This project builds a real-time sentiment analysis system using Twitter API, LSTM, and BERT.
 It classifies live tweets into Positive, Negative, or Neutral sentiments with 89% accuracy.
 
